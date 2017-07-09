@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{02EE8163-3AA5-410A-987F-3E9ECF2EC1BE}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>ByteVieer</RootNamespace>
-    <AssemblyName>ByteVieer</AssemblyName>
+    <RootNamespace>ByteViewer</RootNamespace>
+    <AssemblyName>ByteViewer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
